@@ -12,7 +12,7 @@
 - 🔭 Today I work with front and backend. Using the following languages: HTML, CSS, JavaScript, PHP, Node JS, React JS and others.
 - 🌱 Studying to become a complete Fullstack Developer.
 - 😄 Pronouns: he/him
-- 
+  
 </br>
 <div>
   <a href = "[https:](https://github.com/gutovinhal)">
