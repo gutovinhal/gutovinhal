@@ -1,8 +1,18 @@
 ## E aí, me chamo Augusto Araújo! 😉
 
-- 🔭 Hoje trabalho com front e backend.
+## 🇬🇧 Português
+
+- 🔭 Hoje trabalho com front e backend. Utilizando as linguagens: HTML, CSS, JavaScript, PHP, Node JS, React JS e outras.
 - 🌱 Estudando para me tornar um Fullstack Developer completo.
-- 😄 Pronouns: ele/dele  
+- 😄 Pronouns: ele/dele
+
+## 🇬🇧 English
+
+
+- 🔭 Today I work with front and backend. Using the following languages: HTML, CSS, JavaScript, PHP, Node JS, React JS and others.
+- 🌱 Studying to become a complete Fullstack Developer.
+- 😄 Pronouns: he/him
+- 
 </br>
 <div>
   <a href = "[https:](https://github.com/gutovinhal)">
