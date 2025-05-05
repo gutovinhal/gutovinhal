@@ -1,6 +1,6 @@
 ## E aí, me chamo Augusto Araújo! 😉
 
-## 🇬🇧 Português
+## 🇧🇷 Português
 
 - 🔭 Hoje trabalho com front e backend. Utilizando as linguagens: HTML, CSS, JavaScript, PHP, Node JS, React JS e outras.
 - 🌱 Estudando para me tornar um Fullstack Developer completo.
